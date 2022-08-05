@@ -1,0 +1,6 @@
+.container{
+    background: linear-gradient(to right, red , yellow);
+    display: flex;
+    flex-direction: column;    
+    padding: 15px;
+}

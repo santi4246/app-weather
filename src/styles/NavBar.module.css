@@ -1,0 +1,17 @@
+.btn{
+    margin-left: 10px;
+    border: none;
+    display: inline-block;
+    border-radius: 15px;
+    padding: 2px 15px;
+    background: #f44336;
+    color: white;
+    font-size: 18px;
+}
+.btn:hover{
+    background: white;
+    color: rgb(65, 131, 232);
+}
+.inputBox{
+    box-sizing: 2px border-box;
+}
